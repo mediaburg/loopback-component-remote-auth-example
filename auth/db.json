@@ -1,0 +1,26 @@
+{
+  "ids": {
+    "User": 3,
+    "AccessToken": 4,
+    "ACL": 1,
+    "RoleMapping": 3,
+    "Role": 3
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"admin\",\"password\":\"$2a$10$6k.wz3HwP/nqZfgeOpCI6.U0QvQkmWqfcQEfwe/tknJgHVl32/n8u\",\"email\":\"admin@admin.com\",\"firstName\":\"Admin\",\"lastName\":\"User\",\"id\":1}",
+      "2": "{\"username\":\"user\",\"password\":\"$2a$10$JoiObqwshlE8ZnMeZuw2yuLJdm1/ontkHZ4R7Dl11YfH.j98q5WFG\",\"email\":\"user@user.com\",\"firstName\":\"Guest\",\"lastName\":\"User\",\"id\":2}"
+    },
+    "AccessToken": {
+    },
+    "ACL": {},
+    "RoleMapping": {
+      "1": "{\"principalType\":\"USER\",\"principalId\":\"1\",\"roleId\":1,\"id\":1}",
+      "2": "{\"principalType\":\"USER\",\"principalId\":\"2\",\"roleId\":2,\"id\":2}"
+    },
+    "Role": {
+      "1": "{\"name\":\"admin\",\"created\":\"2016-09-17T14:00:48.124Z\",\"modified\":\"2016-09-17T14:00:48.124Z\",\"id\":1}",
+      "2": "{\"name\":\"users\",\"created\":\"2016-09-17T14:00:48.128Z\",\"modified\":\"2016-09-17T14:00:48.128Z\",\"id\":2}"
+    }
+  }
+}

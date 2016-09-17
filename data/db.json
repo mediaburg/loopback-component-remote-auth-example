@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Post": 2
+  },
+  "models": {
+    "Post": {
+      "1": "{\"title\":\"Test\",\"content\":\"Test ...\",\"id\":1}"
+    }
+  }
+}

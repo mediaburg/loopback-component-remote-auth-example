@@ -1,0 +1,9 @@
+{
+    "name": "loopback-remote-rest-auth-token-example",
+    "version": "1.0.0",
+    "main": "start.js",
+    "scripts": {
+        "preinstall": "cd auth && npm install -d",
+        "postinstall": "cd data && npm install -d"
+    }
+}

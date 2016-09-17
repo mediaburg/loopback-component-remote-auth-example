@@ -1,0 +1,12 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory",
+        "file": "data/db.json"
+    },
+    "auth-api": {
+        "url": "http://localhost:3005/api",
+        "name": "auth-api",
+        "connector": "remote"
+    }
+}
