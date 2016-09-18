@@ -1,7 +1,7 @@
 {
   "ids": {
     "User": 3,
-    "AccessToken": 4,
+    "AccessToken": 1,
     "ACL": 1,
     "RoleMapping": 3,
     "Role": 3
@@ -13,7 +13,8 @@
     },
     "AccessToken": {
     },
-    "ACL": {},
+    "ACL": {
+    },
     "RoleMapping": {
       "1": "{\"principalType\":\"USER\",\"principalId\":\"1\",\"roleId\":1,\"id\":1}",
       "2": "{\"principalType\":\"USER\",\"principalId\":\"2\",\"roleId\":2,\"id\":2}"

@@ -16,7 +16,7 @@
     "loopback-component-explorer": "^2.4.0",
     "loopback-connector-remote": "^2.0.0-alpha.2",
     "loopback-datasource-juggler": "^2.39.0",
-    "loopback-rest-remote-auth-token": "0.0.2",
+    "loopback-rest-remote-auth-token": "0.0.3",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^1.0.1"
   },

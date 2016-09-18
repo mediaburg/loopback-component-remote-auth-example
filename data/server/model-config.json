@@ -24,7 +24,7 @@
   },
   "ACL": {
     "dataSource": "auth-api",
-    "public": true
+    "public": false
   },
   "RoleMapping": {
     "dataSource": "auth-api",
