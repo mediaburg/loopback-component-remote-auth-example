@@ -2,7 +2,7 @@
   "ids": {
     "User": 3,
     "AccessToken": 1,
-    "ACL": 1,
+    "ACL": 2,
     "RoleMapping": 3,
     "Role": 3
   },
@@ -14,6 +14,7 @@
     "AccessToken": {
     },
     "ACL": {
+      "1": "{\"model\" : \"AccessToken\",\"property\": \"findById\",\"accessType\": \"READ\",\"principalType\": \"ROLE\",\"principalId\": \"$owner\",\"permission\": \"ALLOW\"}"
     },
     "RoleMapping": {
       "1": "{\"principalType\":\"USER\",\"principalId\":\"1\",\"roleId\":1,\"id\":1}",
